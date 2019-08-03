@@ -1,3 +1,4 @@
+# https://www.tensorflow.org/tutorials/keras/basic_classification
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 #tensorflow and tf.keras
